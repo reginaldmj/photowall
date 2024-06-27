@@ -43,8 +43,8 @@ npm start
 
 - Website:
 - Twitter: []()
-- Github: [](https://github.com/reginaldmj)
-- LinkedIn: [](https://www.linkedin.com/in/reginald-jefferson-42b0b61a8/)
+- Github: [https://github.com/reginaldmj](https://github.com/reginaldmj)
+- LinkedIn: [https://www.linkedin.com/in/reginald-jefferson-42b0b61a8/](https://www.linkedin.com/in/reginald-jefferson-42b0b61a8/)
 
 ## Acknowledgements
 
